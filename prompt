@@ -1,0 +1,2 @@
+Now please summarize a list of set of insights that are relevant for any future code modification, also mention the best score you've seen, in the format <obs>["observation 1","observation 2"]</obs>
+And then suggest changes to improve on the metrics in the format <embed>[{"find":"code to be replaced", "replace":"code to replace with"},..]</embed>
